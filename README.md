@@ -1,6 +1,8 @@
 # Laboratorio de Computación Gráfca e Interacción Humano-Computadora
 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
 
+REPORTE DE PRÁCTICA Nº 01
+
 FACULTAD DE INGENIERÍA
 
 DIVISIÓN DE INGENIERÍA ELÉCTRICA
@@ -9,7 +11,7 @@ INGENIERÍA EN COMPUTACIÓN
 
 NOMBRE COMPLETO: Martínez Miranda Juan Carlos
 
-Nº de Cuenta: 318145042
+Nº de Cuenta: 317261082
 
 GRUPO DE LABORATORIO: 11
 
