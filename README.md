@@ -9,7 +9,7 @@ DIVISIÓN DE INGENIERÍA ELÉCTRICA
 
 INGENIERÍA EN COMPUTACIÓN
 
-NOMBRE COMPLETO: Martínez Miranda Juan Carlos
+NOMBRE COMPLETO: Ávila Zapata Gustaco Adrián
 
 Nº de Cuenta: 317261082
 
