@@ -7,7 +7,7 @@ DIVISIÓN DE INGENIERÍA ELÉCTRICA
 
 INGENIERÍA EN COMPUTACIÓN
 
-NOMBRE COMPLETO: Ávila Zapata Gustaco Adrián
+NOMBRE COMPLETO: Ávila Zapata Gustavo Adrián
 
 Nº de Cuenta: 317261082
 
