@@ -9,7 +9,7 @@ INGENIERÍA EN COMPUTACIÓN
 
 REPORTE DE PRÁCTICA Nº 01
 
-NOMBRE COMPLETO: Ávila Zapata Gustaco Adrián
+NOMBRE COMPLETO: Ávila Zapata Gustavo Adrián
 
 Nº de Cuenta: 317261082
 
